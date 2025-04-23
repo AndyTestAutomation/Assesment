@@ -1,8 +1,8 @@
-# GitHub API & Playwright E2E Tests
+# GitHub Playwright E2E Tests
 
 This project contains:
-- API tests using Jest and Axios with mocked data.
 - UI end-to-end tests using Playwright that simulate real user behavior.
+- Mocked API interactions using Playwright's `page.route()` for testing edge cases.
 
 ## Getting Started
 
@@ -10,27 +10,50 @@ This project contains:
 
 1. Install dependencies:
 
+   ```bash
+   npm install
+   npx playwright install
+   ```
+
+2. (Optional) If authentication is required, generate cookies for your GitHub session:
+   - Run the `save-cookies.js` script:
+     ```bash
+     node save-cookies.js
+     ```
+   - Log in manually when prompted, and the cookies will be saved to `cookies.json`.
+
+3. Run Playwright E2E tests:
+
+   ```bash
+   npx playwright test
+   ```
+
+### Running Specific Tests
+
+To run a specific test file, use:
+
 ```bash
-npm install
-npx playwright install
+npx playwright test tests/e2e/<test-file-name>.test.ts
 ```
 
-2. Copy `.env.example` to `.env` and fill in your test GitHub credentials.
+### Debugging Tests
 
-3. Run API tests:
+Run tests in headed mode for debugging:
 
 ```bash
-npx jest
+npx playwright test --headed
 ```
 
-4. Run Playwright E2E tests:
+Use the Playwright Inspector for step-by-step debugging:
 
 ```bash
-npx playwright test
+npx playwright test --debug
 ```
 
 ## CI
 
-Tests are automatically run using GitHub Actions on push and pull requests.
+Tests are automatically run using GitHub Actions on push and pull requests. The workflow is defined in `.github/workflows/test.yml`.
 
-**Note:** Use a dedicated test GitHub account for automation.
+---
+
+**Note:** Ensure sensitive files like `cookies.json` are not committed to the repository. Add them to `.gitignore` if necessary.

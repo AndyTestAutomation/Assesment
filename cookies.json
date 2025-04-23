@@ -1,0 +1,132 @@
+[
+  {
+    "name": "_octo",
+    "value": "GH1.1.2046084787.1745426664",
+    "domain": ".github.com",
+    "path": "/",
+    "expires": 1776962689.583372,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cpu_bucket",
+    "value": "xlg",
+    "domain": ".github.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "preferred_color_mode",
+    "value": "light",
+    "domain": ".github.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "tz",
+    "value": "Europe%2FBucharest",
+    "domain": ".github.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_device_id",
+    "value": "fbd412264fa3aaf5384fe278b03e429c",
+    "domain": "github.com",
+    "path": "/",
+    "expires": 1776962674.095649,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "saved_user_sessions",
+    "value": "207895750%3AWSGScjFo2-MYEqUHWl2z01B5Y5ZfRq4wbqfLFFVwGJLQCFPR",
+    "domain": "github.com",
+    "path": "/",
+    "expires": 1753202691.569616,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "user_session",
+    "value": "WSGScjFo2-MYEqUHWl2z01B5Y5ZfRq4wbqfLFFVwGJLQCFPR",
+    "domain": "github.com",
+    "path": "/",
+    "expires": 1746636291.569679,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__Host-user_session_same_site",
+    "value": "WSGScjFo2-MYEqUHWl2z01B5Y5ZfRq4wbqfLFFVwGJLQCFPR",
+    "domain": "github.com",
+    "path": "/",
+    "expires": 1746636291.569693,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "tz",
+    "value": "Europe%2FBucharest",
+    "domain": "github.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "color_mode",
+    "value": "%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D",
+    "domain": ".github.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "logged_in",
+    "value": "yes",
+    "domain": ".github.com",
+    "path": "/",
+    "expires": 1776962691.569722,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dotcom_user",
+    "value": "AndyTestAutomation",
+    "domain": ".github.com",
+    "path": "/",
+    "expires": 1776962691.569733,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gh_sess",
+    "value": "%2FAux5nSTbpUh0KjVe9Ibh%2Be%2BTx%2BJ%2BKQb3GCFcz8qbZi2t3P4bWhGWMA5QwYi0QcPaL%2FkVPtUGXYztSPEriD%2FJ58P353aSoCco8zQf3RTQzzqOjO6l2UQKsf3wU8k%2BxJjRJX0Mmz%2FpLmfdvVUVY0mT%2F7qoVAD%2F8zj3zIYizkADpX%2BQoLLv1TzunI%2BxELjJxXmN0EyMlKCGg1LV7Smy7%2FWLDqI65GczPBxSkoiymSrLPq5fWiaoIV7vIjy5T2NX08k6DXhZa7U4rGUqoREfhFdUGzyNYS1I1vFBy4%2FRZ4eJkNo7ojoudtHV9UdktGBfBh%2FT2UFwII3ib5MGFqIWcuVuzs3m1TIYs9flK4%2Fy3lW07twN03yir%2B9%2Fqfl1OMdkd6%2B1hijZmbqhDzL%2BVjik2hDoh3C1ehqNyUlJ8ROIiPgCeHcl13mduGJBdzUS%2BlXsNZkbcDmgMHGc84xaYDVqxWPscrjNGQJXool4ufBW9Mh8Sv4Fo%2Fv3OjdTI5czAGz%2BNlVTUwWKhsIQFHAprsGzH83vPc5fL5Si993lYu6v8u0%2FadWLAjRYKLjI1GxCYraL%2BTRH5Ox83bBeBzWFH4NlmectJn1CxC%2Fz4GTw6gQJnlOCI7tkf0BqJV9OP5%2F5%2Fk6g1BJz2VdZKYj%2FKdTIVpGhgXTQFLW6JjmQGG81Enxi1%2FiRNPFJbKnTK79k7Z4Ugh7kxPAbZxC38D6W23F1oEVRDOucRgSSvoHMupBuDK0QKWooN7BrHEcaB93n7Uo6odjpD%2BjuV17Up5MZ47Rx038K4%2FB2A%2BaTkpGl4Rvx2KbkWI6galSDCX22EAL6mqIYk%2FpAFgnuNqu%2FfIReEyFKqs%2B%2BveS8OW%2FWrpUT5bzYAJutWeChIoEhmuh9B%2F4RwHShtqGk%2B%2BfRrTazn7ZVgWduKuJat5L7pd%2Fjkx7S3%2B6OdFbhdQ7oQncx2evMy%2BDZpZZidCRN2yoIWzMh7JsL%2BqRYhMlrJhGimFTa57H0BosCpAKoKixNuhRXqbz7ui0vbbt91X2kqyH5etwst9gzrz0DxoXBmVlKj9GAts9wcrh--WPlNuZGtE%2FP1xFtA--7MCVcpCXzOYBx5%2FUsLHBdA%3D%3D",
+    "domain": "github.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]
